@@ -1,3 +1,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 tutorial[[:space:]]1.5/ filter=lfs diff=lfs merge=lfs -text
+C:/Users/brena/Desktop/DIG3480/Tutorial[[:space:]]1.5/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+lld filter=lfs diff=lfs merge=lfs -text
 /Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
